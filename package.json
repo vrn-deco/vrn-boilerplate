@@ -37,7 +37,7 @@
     "@ombro/eslint-config-typescript": "^0.1.4",
     "@ombro/logger": "^1.5.5",
     "@ombro/tsconfig": "^2.0.0",
-    "@types/inquirer": "^8.2.0",
+    "@types/inquirer": "^9.0.7",
     "@types/node": "^16.11.26",
     "@typescript-eslint/eslint-plugin": "^5.16.0",
     "@typescript-eslint/parser": "^5.16.0",
