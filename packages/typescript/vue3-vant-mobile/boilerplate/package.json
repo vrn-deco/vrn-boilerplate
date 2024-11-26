@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@ombro/eslint-config-vue3-typescript": "^0.1.0",
-    "@vitejs/plugin-vue": "^2.3.3",
+    "@vitejs/plugin-vue": "^5.2.1",
     "autoprefixer": "^10.4.7",
     "eslint": "^8.15.0",
     "postcss": "^8.4.13",
