@@ -33,11 +33,11 @@
     "@vrn-deco/boilerplate-preset-base": "workspace:*",
     "@vrn-deco/boilerplate-protocol": "workspace:*",
     "execa": "^6.1.0",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.3.0",
     "minimist": "^1.2.5"
   },
   "devDependencies": {
-    "@types/fs-extra": "^9.0.13",
+    "@types/fs-extra": "^11.0.4",
     "@types/minimist": "^1.2.2"
   }
 }

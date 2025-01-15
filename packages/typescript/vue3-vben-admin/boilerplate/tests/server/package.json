@@ -10,7 +10,7 @@
     "stop": "npx pm2 stop ecosystem.config.js"
   },
   "dependencies": {
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.3.0",
     "koa": "^2.13.4",
     "koa-body": "^4.2.0",
     "koa-bodyparser": "^4.3.0",
