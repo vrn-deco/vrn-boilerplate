@@ -30,12 +30,12 @@
     "url": "https://github.com/vrn-deco/boilerplate/issues"
   },
   "dependencies": {
-    "fs-extra": "^10.0.0"
+    "fs-extra": "^11.3.0"
   },
   "devDependencies": {
     "@ombro/is-main": "^0.1.1",
     "@ombro/logger": "^1.5.5",
-    "@types/fs-extra": "^9.0.13",
+    "@types/fs-extra": "^11.0.4",
     "@vrn-deco/boilerplate-javascript-vue2-element": "workspace:*",
     "@vrn-deco/boilerplate-javascript-vue2-vant": "workspace:*",
     "@vrn-deco/boilerplate-javascript-vue2-vant-h5plus": "workspace:*",
