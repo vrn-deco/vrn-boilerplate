@@ -18,24 +18,24 @@
     "test:e2e:headless": "npx playwright test --headed"
   },
   "engines": {
-    "node": ">=14.17.0"
+    "node": ">=14.21.3"
   },
   "devDependencies": {
-    "@playwright/test": "^1.19.2",
-    "@types/sqlite3": "^3.1.8",
-    "@vitejs/plugin-vue": "^2.1.0",
-    "electron": "16.0.8",
-    "electron-builder": "^22.14.5",
-    "nano-staged": "^0.6.0",
-    "simple-git-hooks": "^2.7.0",
-    "typescript": "^4.5.5",
-    "vite": "^2.7.13",
+    "@playwright/test": "^1.49.1",
+    "@types/sqlite3": "^3.1.11",
+    "@vitejs/plugin-vue": "^2.3.4",
+    "electron": "16.2.8",
+    "electron-builder": "^22.14.13",
+    "nano-staged": "^0.8.0",
+    "simple-git-hooks": "^2.11.1",
+    "typescript": "^4.9.5",
+    "vite": "^2.9.18",
     "vite-plugin-resolve": "^1.8.0",
-    "vue": "^3.2.29",
-    "vue-tsc": "^0.31.1"
+    "vue": "^3.5.13",
+    "vue-tsc": "^0.40.13"
   },
   "dependencies": {
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.1.7"
   },
   "env": {
     "VITE_DEV_SERVER_HOST": "127.0.0.1",

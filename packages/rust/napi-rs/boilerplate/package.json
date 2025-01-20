@@ -13,11 +13,11 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@napi-rs/cli": "^2.6.2",
-    "ava": "^4.0.1"
+    "@napi-rs/cli": "^2.18.4",
+    "ava": "^4.3.3"
   },
   "engines": {
-    "node": ">= 10"
+    "node": ">= 10.24.1"
   },
   "scripts": {
     "artifacts": "napi artifacts",

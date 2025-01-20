@@ -13,7 +13,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": ">= 10"
+    "node": ">= 10.24.1"
   },
   "repository": "https://github.com/Cphayim/napi-cool.git",
   "libc": [
